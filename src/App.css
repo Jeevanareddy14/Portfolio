@@ -1,0 +1,24 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html,
+body,
+#root{
+  width:100%;
+  min-height:100%;
+}
+
+body{
+  overflow-x:hidden;
+  font-family:Poppins,sans-serif;
+  background: linear-gradient(
+    135deg,
+    #fff0f8,
+    #f5efff,
+    #ede9fe
+  );
+  height: 100vh;
+}
