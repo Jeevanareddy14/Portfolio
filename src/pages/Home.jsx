@@ -15,7 +15,7 @@ function Home() {
         <h2>Frontend Developer</h2>
 
         <p className="hero-description">
-          Passionate React Developer with 3.3 years of experience
+          Passionate React Developer with 3.6 years of experience
           building scalable, responsive and user-friendly web
           applications using React.js, Next.js, TypeScript,
           GraphQL and Redux Toolkit.

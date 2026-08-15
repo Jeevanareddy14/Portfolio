@@ -15,7 +15,7 @@ export default function About() {
 
           <div className="glass-card">
             <p>
-              Software Engineer with 3.3 years of experience
+              Software Engineer with 3.6 years of experience
               specializing in React.js, Next.js, TypeScript,
               Redux Toolkit, GraphQL and Material UI.
 
@@ -26,7 +26,7 @@ export default function About() {
 
             <div className="about-stats">
               <div className="stat-card">
-                <h3>3.3+</h3>
+                <h3>3.6+</h3>
                 <span>Years Experience</span>
               </div>
 
